@@ -50,6 +50,14 @@ Tech stack:
 ● Socket.IO for live interactions and messaging
 ● Tailwind for frontend styling
 
+Skills
+
+Telephone/ Verbal Communication:
+Over the course of my 111 career, I honed my skills by talking to many people when I worked there. It's important to manage speed, tone, expectations while being tactful when speaking to a patient. This needs to be done while speaking in such a manner as to get an appropriate answer from a patient when asking for their symptoms, to ensure they match the correct pathway and lead to the most appropriate form of treatment. Speaking to people from all walks of life in all sorts of life, in all sorts of situations, whether stressful, calm, under a panic attack or simply asking for advice creates a broad knowledge of communication styles to handle different people with. 
+
+Critical Writing, Research and Written Communication:
+Writing is the main part of any English degree. It is ultimately about writing about other people's writing, and as such requires detailed analysis of texts, their meaning, how to analyse them and interpret them in a novel and interesting manner with an effective arguement. This required extensive research, reading and understanding various texts from different time periods to inform my writing and also divulge information from what can be quite complex and often confusing texts. This is all in service of writing an essay that concisely, simply and effectively communicates that analysis, research and meaning in as clear terms as possible, without sacrificing the complexity of what I am attempting to communicate. 
+
 
 EXPERIENCE
 ___________________________________________________________________________________

@@ -1,5 +1,3 @@
-
-
 Muntej Chana
 MuntejChana@hotmail.com
 07522059972
@@ -9,8 +7,6 @@ South Croydon
 ABOUT ME
 ___________________________________________________________________________________
 	
-
-
 I come from an English Literature degree, looking for a different career direction in life. I was always interested in tech, having grown up during the boom of the internet, being exposed to and having fun in different eras of tech. Over the past few years in my degree, I have developed an excellent independent working discipline, as well as solid research, analysis and communication skills which would be a high quality asset in the tech field. Prior to this, I was also a call handler in the NHS 111 pre degree, which expanded on my communication skills to all sorts of people from all areas of life, especially in stressful and time sensitive situations. I worked on a tech project in my Computing A level developing a small game with a Java library, which I thoroughly enjoyed and which inspired me to get into this industry. I attended Makers to get relevant education and experience to kickstart my entry into the tech field.
 
 PROJECTS
@@ -51,13 +47,13 @@ Tech stack:
 ● Tailwind for frontend styling
 
 Skills
+__________________________________________________________________________________
 
 Telephone/ Verbal Communication:
 Over the course of my 111 career, I honed my skills by talking to many people when I worked there. It's important to manage speed, tone, expectations while being tactful when speaking to a patient. This needs to be done while speaking in such a manner as to get an appropriate answer from a patient when asking for their symptoms, to ensure they match the correct pathway and lead to the most appropriate form of treatment. Speaking to people from all walks of life in all sorts of life, in all sorts of situations, whether stressful, calm, under a panic attack or simply asking for advice creates a broad knowledge of communication styles to handle different people with. 
 
 Critical Writing, Research and Written Communication:
 Writing is the main part of any English degree. It is ultimately about writing about other people's writing, and as such requires detailed analysis of texts, their meaning, how to analyse them and interpret them in a novel and interesting manner with an effective arguement. This required extensive research, reading and understanding various texts from different time periods to inform my writing and also divulge information from what can be quite complex and often confusing texts. This is all in service of writing an essay that concisely, simply and effectively communicates that analysis, research and meaning in as clear terms as possible, without sacrificing the complexity of what I am attempting to communicate. 
-
 
 EXPERIENCE
 ___________________________________________________________________________________
@@ -76,16 +72,11 @@ Health Advisor - NHS 111 - (June 2017 - July 2018)
 ● Company benefited by my shorter than average call handling times, plus meeting or exceeding all other performance metrics and targets
 ● Qualified in Core Module 1- qualification allowing someone to work as a health advisor using the Pathways system 
 
-
 EDUCATION
 __________________________________________________________________________________
 English -  University of Sussex (October 2018- May 2022, October 2023-May 2024) - Brighton
 
 A Levels - (Computing, English, Philosophy) - Wilson's School (2013-2015)
-
-
-
-
 
 INTERESTS
 __________________________________________________________________________________

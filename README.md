@@ -1,69 +1,88 @@
-## Your Name
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
 
 
-Here's an example
+Muntej Chana
+MuntejChana@hotmail.com
+07522059972
+https://github.com/Mchana/Mchana/blob/main/README.md
+South Croydon
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+ABOUT ME
+___________________________________________________________________________________
+	
 
 
-## Education
+I come from an English Literature degree, looking for a different career direction in life. I was always interested in tech, having grown up during the boom of the internet, being exposed to and having fun in different eras of tech. Over the past few years in my degree, I have developed an excellent independent working discipline, as well as solid research, analysis and communication skills which would be a high quality asset in the tech field. Prior to this, I was also a call handler in the NHS 111 pre degree, which expanded on my communication skills to all sorts of people from all areas of life, especially in stressful and time sensitive situations. I worked on a tech project in my Computing A level developing a small game with a Java library, which I thoroughly enjoyed and which inspired me to get into this industry. I attended Makers to get relevant education and experience to kickstart my entry into the tech field.
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+PROJECTS
+__________________________________________________________________________________
+Project name:
+Makers BNB - https://github.com/Mchana/Makers_Bnb
 
-#### Your University / College (start_date to end_date)
+Description:
+Project working in a team to make a web app with similar features to Airbnb. We made systems for users to create accounts and login, list spaces, browse spaces and book them. Hosts can approve or deny booking requests. We had 1 week to complete a working version.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Tech stack:
+● Python
+● Flask
+● PostgresSQL
+● HTML
 
-#### Any other qualifications
+Project name:
+Acebook - https://github.com/Mchana/acebook-team-griffins
 
-That in some arguable way make you a better software developer or well-rounded person
+Description:
+This project was to work with an existing code base, extending and improving on it within 2 weeks. We added various new features. We created login, registration, posts and friends with likes and comments. In addition, we added a search system and early trending posts page on the timeline.
 
-## Hobbies
+Tech stack:
+● MERN (Mongo, Express, React, Node)
+● Jest and Cypress for testing
+● Cloudinary for image storage
 
-Any cool stuff that makes you a super part of a software development team
+Project name:
+Oppo Games - https://github.com/Mchana/oppo-games-group6
+
+Description:
+This was a group project with complete freedom to create anything in a 2 week deadline. We created a website which allowed users to play 3 games. We used the Agile framework of standups and sprints to create standard login and signup features, in addition to games of tic tac toe,rock paper scissors and battleships.
+
+Tech stack:
+● MERN (Mongo, Express, React, Node)
+● Jest and Cypress for testing
+● Socket.IO for live interactions and messaging
+● Tailwind for frontend styling
+
+
+EXPERIENCE
+___________________________________________________________________________________
+	
+Makers Academy - (October 2023 - January 2024)
+● Learned Git and Github, terminal commands and version control, as well as Python programming
+● Moved on to learn test driven development, object oriented programming, debugging and pair programming
+● Learned databases using SQL and Python, which transferred into making webapps with Python, using Postman and PostgresQL to assist with managing databases and testing web requests. Some cloud deployment using Docker.
+● Went down the software engineering specialism, where I learned Javascript and Node. Worked on two team projects using Agile practices and the MERN stack, and extended to learning Socket and Tailwind on the second project
+● Used Kotlin and Android Studio to learn how to create Android applications
+
+Health Advisor - NHS 111 - (June 2017 - July 2018)
+● Handled calls from patients, taking their symptoms and advising them on the appropriate healthcare service to treat their health problem
+● Used highly effective verbal communication - essential for talking with patients in an appropriate tone in a timely manner, depending on their symptoms, mood and changing feelings, especially in stressful and time critical circumstances
+● Patients had a good experience in the service, and have received a patient letter thanking me for helping them. 
+● Company benefited by my shorter than average call handling times, plus meeting or exceeding all other performance metrics and targets
+● Qualified in Core Module 1- qualification allowing someone to work as a health advisor using the Pathways system 
+
+
+EDUCATION
+__________________________________________________________________________________
+English -  University of Sussex (October 2018- May 2022, October 2023-May 2024) - Brighton
+
+A Levels - (Computing, English, Philosophy) - Wilson's School (2013-2015)
+
+
+
+
+
+INTERESTS
+__________________________________________________________________________________
+
+● Reading
+● Collecting models
+● Tech news
+● Raspberry Pi

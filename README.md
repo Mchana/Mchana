@@ -1,92 +1,75 @@
 
 
 Muntej Chana
-
 MuntejChana@hotmail.com
-
 07522059972
-
-https://github.com/Mchana/Mchana/blob/main/README.md
-
+https://github.com/Mchana/Mchana
 Banstead
+
+
 ABOUT ME
 ___________________________________________________________________________________
 	
-I come from an English Literature degree, looking for a different career direction in life. I was always interested in tech, having grown up during the boom of the internet, being exposed to and having fun in different eras of tech. Over the past few years in my degree, I have developed an excellent independent working discipline, as well as solid research, analysis and communication skills which would be a high quality asset in the tech field. Prior to this, I was also a call handler in the NHS 111 pre degree, which expanded on my communication skills to all sorts of people from all areas of life, especially in stressful and time sensitive situations. I worked on a tech project in my Computing A level developing a small game with a Java library, which I thoroughly enjoyed and which inspired me to get into this industry. I attended Makers to get relevant education and experience to kickstart my entry into the tech field.
+
+I am currently a software developer at Techbalance creating a student wellbeing app.  Prior to Makers Academy, I was a call handler in the NHS 111, which expanded on my verbal communication skills to different people of all backgrounds particularly in high pressure and time sensitive situations. Now having trained in Software Engineering accompanied by my background in research, analysis and writing, I aim to combine that with my excitement in tech.
 
 PROJECTS
 __________________________________________________________________________________
-Project name:
-Makers BNB - https://github.com/Mchana/Makers_Bnb
 
-Description:
-Project working in a team to make a web app with similar features to Airbnb. We made systems for users to create accounts and login, list spaces, browse spaces and book them. Hosts can approve or deny booking requests. We had 1 week to complete a working version.
+Makers BNB - https://github.com/Mchana/Makers_Bnb - Python, Flask, PostgresQL, HTML
 
-Tech stack:
-● Python
-● Flask
-● PostgresSQL
-● HTML
+A website similar to AirBnB, which allows hosts to post vacancies, approve and deny them, and users to book them.
 
-Project name:
-Acebook - https://github.com/Mchana/acebook-team-griffins
+Acebook - https://github.com/Mchana/acebook-team-griffins - MongoDB, Express, React, Node, Jest, Cypress
 
-Description:
-This project was to work with an existing code base, extending and improving on it within 2 weeks. We added various new features. We created login, registration, posts and friends with likes and comments. In addition, we added a search system and early trending posts page on the timeline.
+A social media site very similar to Facebook. It allows users to make posts with likes and comments, and add friends, as well as customise a bio page. In addition, it has a search system and an early trending posts page on the timeline.
 
-Tech stack:
-● MERN (Mongo, Express, React, Node)
-● Jest and Cypress for testing
-● Cloudinary for image storage
+Oppo Games - https://github.com/Mchana/oppo-games-group6 - MongoDB, Express, React, Node, Jest, Cypress, Socket, Tailwind
 
-Project name:
-Oppo Games - https://github.com/Mchana/oppo-games-group6
+A website which allowed users to play 3 games in multiplayer, tic tac toe, rock paper scissors and battleships. It also has a leaderboard, and a lobby to create and join games, as well as hop in an open lobby.
 
-Description:
-This was a group project with complete freedom to create anything in a 2 week deadline. We created a website which allowed users to play 3 games. We used the Agile framework of standups and sprints to create standard login and signup features, in addition to games of tic tac toe,rock paper scissors and battleships.
 
-Tech stack:
-● MERN (Mongo, Express, React, Node)
-● Jest and Cypress for testing
-● Socket.IO for live interactions and messaging
-● Tailwind for frontend styling
-
-Skills
-__________________________________________________________________________________
-
-Telephone/ Verbal Communication:
-Over the course of my 111 career, I honed my skills by talking to many people when I worked there. It's important to manage speed, tone, expectations while being tactful when speaking to a patient. This needs to be done while speaking in such a manner as to get an appropriate answer from a patient when asking for their symptoms, to ensure they match the correct pathway and lead to the most appropriate form of treatment. Speaking to people from all walks of life in all sorts of life, in all sorts of situations, whether stressful, calm, under a panic attack or simply asking for advice creates a broad knowledge of communication styles to handle different people with. 
-
-Critical Writing, Research and Written Communication:
-Writing is the main part of any English degree. It is ultimately about writing about other people's writing, and as such requires detailed analysis of texts, their meaning, how to analyse them and interpret them in a novel and interesting manner with an effective arguement. This required extensive research, reading and understanding various texts from different time periods to inform my writing and also divulge information from what can be quite complex and often confusing texts. This is all in service of writing an essay that concisely, simply and effectively communicates that analysis, research and meaning in as clear terms as possible, without sacrificing the complexity of what I am attempting to communicate. 
 
 EXPERIENCE
 ___________________________________________________________________________________
 	
-Makers Academy - (October 2023 - January 2024)
-● Learned Git and Github, terminal commands and version control, as well as Python programming
-● Moved on to learn test driven development, object oriented programming, debugging and pair programming
-● Learned databases using SQL and Python, which transferred into making webapps with Python, using Postman and PostgresQL to assist with managing databases and testing web requests. Some cloud deployment using Docker.
-● Went down the software engineering specialism, where I learned Javascript and Node. Worked on two team projects using Agile practices and the MERN stack, and extended to learning Socket and Tailwind on the second project
-● Used Kotlin and Android Studio to learn how to create Android applications
+Techbalance - Software Developer Internship - (May  2024 - July 2024)
 
-Health Advisor - NHS 111 - (June 2017 - July 2018)
-● Handled calls from patients, taking their symptoms and advising them on the appropriate healthcare service to treat their health problem
-● Used highly effective verbal communication - essential for talking with patients in an appropriate tone in a timely manner, depending on their symptoms, mood and changing feelings, especially in stressful and time critical circumstances
-● Patients had a good experience in the service, and have received a patient letter thanking me for helping them. 
-● Company benefited by my shorter than average call handling times, plus meeting or exceeding all other performance metrics and targets
-● Qualified in Core Module 1- qualification allowing someone to work as a health advisor using the Pathways system 
+Techbalance is a startup focused on creating an app to support student wellbeing. I have joined as an intern, responsible for helping develop their app using React Native and Typescript. I am also using Expo Go and Testflight to test the product, and for a core sample of test users to give feedback. 
+
+Makers Academy - Bootcamp - (October 2023 - January 2024)
+
+Maker was an intense 16 week bootcamp to transform from an independent learner, to an individual who knows key software development and coding practices, in a tech style working environment.
+
+I learned Git and Github, terminal commands and version control, as well as Python programming
+After this, moved on to learn test driven development, object oriented programming, debugging and pair programming
+I learned databases using SQL and Python, which transferred into making webapps with Python and Django, using Postman and PostgresQL to assist with managing databases and testing web requests. On top of this, I did some cloud deployment using Docker
+Also learned Kotlin and Android Studio to create Android applications
+Succeeded on completing the software engineering specialism, where I learned Javascript and Node. Worked on two team projects using Agile practices and the MERN stack, and extended to learning Socket and Tailwind on the final project
+
+NHS 111 - Health Advisor - (June 2017 - July 2018)
+
+This role was to handle calls from patients, taking their symptoms and advising them on the appropriate service to treat their healthcare issue.
+
+I used highly effective verbal communication - essential for talking with patients in an appropriate tone in a timely manner, depending on their symptoms, mood and changing feelings
+especially in high pressure and time critical circumstances
+I gave patients a great experience in the service, and have received a patient letter thanking me for helping them. 
+I helped the company by having shorter than average call handling times, plus meeting or exceeding all other performance metrics and targets
+I succeeded in qualifying for the job by passing Core Module 1 allowing someone to work as a health advisor using the Pathways system 
+Training new Health Advisors by supervising them during their initial calls, giving them feedback, advice and encouragement to improve
+
 
 EDUCATION
 __________________________________________________________________________________
-English -  University of Sussex (October 2018- May 2022, October 2023-May 2024) - Brighton
 
-A Levels - (Computing, English, Philosophy) - Wilson's School (2013-2015)
+Makers Academy - Software Engineering (September 2023 - January 2024)
+
+University of Sussex - English Literature (October 2018- May 2022, October 2023-May 2024) - Brighton
+
+Wilson’s School - A Levels - (Computing, English, Philosophy) - (2013-2015)
+
 
 INTERESTS
 __________________________________________________________________________________
 
-● Reading
-● Collecting models
-● Tech news
-● Raspberry Pi
+In my spare time, I enjoy reading, mainly 20th century literature and sci-fi. I also enjoy collecting, assembling and painting various models. I have a regular DnD group with my friends,  and I also enjoy tinkering with the Raspberry Pi 5 when I have the time (and patience).

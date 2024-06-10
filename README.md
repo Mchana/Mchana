@@ -29,13 +29,16 @@ Oppo Games - https://github.com/Mchana/oppo-games-group6 - MongoDB, Express, Rea
 A website which allowed users to play 3 games in multiplayer, tic tac toe, rock paper scissors and battleships. It also has a leaderboard, and a lobby to create and join games, as well as hop in an open lobby.
 
 
-
 EXPERIENCE
 ___________________________________________________________________________________
 	
 Techbalance - Software Developer Internship - (May  2024 - July 2024)
 
 Techbalance is a startup focused on creating an app to support student wellbeing. I have joined as an intern, responsible for helping develop their app using React Native and Typescript. I am also using Expo Go and Testflight to test the product, and for a core sample of test users to give feedback. 
+
+Developed a “coming soon” page to direct users away from incomplete features, using a design set out from Figma developed by the company designer
+Responsible for changing aspects of the app according to user feedback, for example changing the user greeting message on the home page according to the time of day
+Bug fixing, such as fixing alignment errors and other issues from users feedback
 
 Makers Academy - Bootcamp - (October 2023 - January 2024)
 

@@ -36,30 +36,30 @@ Techbalance - Software Developer Internship - (May  2024 - July 2024)
 
 Techbalance is a startup focused on creating an app to support student wellbeing. I have joined as an intern, responsible for helping develop their app using React Native and Typescript. I am also using Expo Go and Testflight to test the product, and for a core sample of test users to give feedback. 
 
-Developed a “coming soon” page to direct users away from incomplete features, using a design set out from Figma developed by the company designer
-Responsible for changing aspects of the app according to user feedback, for example changing the user greeting message on the home page according to the time of day
-Bug fixing, such as fixing alignment errors and other issues from users feedback
+- Developed a “coming soon” page to direct users away from incomplete features, using a design set out from Figma developed by the company designer
+- Responsible for changing aspects of the app according to user feedback, for example changing the user greeting message on the home page according to the time of day
+- Bug fixing, such as fixing alignment errors and other issues from users feedback
 
 Makers Academy - Bootcamp - (October 2023 - January 2024)
 
 Maker was an intense 16 week bootcamp to transform from an independent learner, to an individual who knows key software development and coding practices, in a tech style working environment.
 
-I learned Git and Github, terminal commands and version control, as well as Python programming
+- Learned Git and Github, terminal commands and version control, as well as Python programming
 After this, moved on to learn test driven development, object oriented programming, debugging and pair programming
-I learned databases using SQL and Python, which transferred into making webapps with Python and Django, using Postman and PostgresQL to assist with managing databases and testing web requests. On top of this, I did some cloud deployment using Docker
-Also learned Kotlin and Android Studio to create Android applications
-Succeeded on completing the software engineering specialism, where I learned Javascript and Node. Worked on two team projects using Agile practices and the MERN stack, and extended to learning Socket and Tailwind on the final project
+- Learned databases using SQL and Python, which transferred into making webapps with Python and Django, using Postman and PostgresQL to assist with managing databases and testing web requests. On top of this, I did some cloud deployment using Docker
+- Also learned Kotlin and Android Studio to create Android applications
+- Succeeded on completing the software engineering specialism, where I learned Javascript and Node. Worked on two team projects using Agile practices and the MERN stack, and extended to learning Socket and Tailwind on the final project
 
 NHS 111 - Health Advisor - (June 2017 - July 2018)
 
 This role was to handle calls from patients, taking their symptoms and advising them on the appropriate service to treat their healthcare issue.
 
-I used highly effective verbal communication - essential for talking with patients in an appropriate tone in a timely manner, depending on their symptoms, mood and changing feelings
+- Used highly effective verbal communication - essential for talking with patients in an appropriate tone in a timely manner, depending on their symptoms, mood and changing feelings
 especially in high pressure and time critical circumstances
-I gave patients a great experience in the service, and have received a patient letter thanking me for helping them. 
-I helped the company by having shorter than average call handling times, plus meeting or exceeding all other performance metrics and targets
-I succeeded in qualifying for the job by passing Core Module 1 allowing someone to work as a health advisor using the Pathways system 
-Training new Health Advisors by supervising them during their initial calls, giving them feedback, advice and encouragement to improve
+- Gave patients a great experience in the service, and have received a patient letter thanking me for helping them. 
+- Helped the company by having shorter than average call handling times, plus meeting or exceeding all other performance metrics and targets
+- Succeeded in qualifying for the job by passing Core Module 1 and 2 allowing someone to work as a health advisor using the Pathways system 
+- Training new Health Advisors by supervising them during their initial calls, giving them feedback, advice and encouragement to improve
 
 
 EDUCATION
